@@ -1,5 +1,7 @@
 # Pokemon
-A .NET 5.0 API which gathers Pokemon data from PokeAPI.
+An API which gathers Pokemon data from PokeAPI.
+
+Written in .NET 5.0 framework.
 
 ## Endpoints:
 
