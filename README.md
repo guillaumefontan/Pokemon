@@ -17,7 +17,7 @@ Written in .NET 5.0 framework.
 ## Production Notes:
 Below is a list of things I would have done differently in a production application:
 1. Add an authorization method to the translation method to ensure the hourly and daily translation caps are not reached.
-2. Add pokemon name validation.
+2. Add Pokemon name validation.
 3. Add PokeAPI and FunTranslation response validation.
 4. Add logging.
 5. Add unit tests for all methods.
