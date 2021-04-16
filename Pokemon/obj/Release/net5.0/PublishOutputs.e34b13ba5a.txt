@@ -1,8 +1,0 @@
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\Pokemon.exe
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\appsettings.json
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\Pokemon.dll
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\Pokemon.deps.json
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\Pokemon.runtimeconfig.json
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\Pokemon.pdb
-C:\Users\ggf01\Documents\Other\Pokemon\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
